@@ -1,13 +1,13 @@
 DefaultContentLanguage = "en"
-author = "Steve Francia"
-baseURL = "https://gohugo.io/"
-copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+author = "Severi Hofslagare"
+baseURL = "https://seveloper.dev"
+copyright = ""
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 languageCode = "en"
 paginate = 3
 theme = "github.com/jonathanjanssens/hugo-casper3"
-title = "Hugo Themes"
+title = "Seveloper.dev"
 [[menu.main]]
 identifier = "about"
 name = "About"
@@ -29,12 +29,12 @@ name = "Author Homepage"
 url = "https://jonathanjanssens.com"
 weight = 40
 [params]
-description = "Just a demo site for the Casper3 theme ported to Hugo"
-facebook = "https://facebook.com"
-github = "https://github.com/jonathanjanssens"
+description = "Building test site"
+facebook = ""
+github = "https://github.com/sesev"
 logo = "/images/ghost-transparent.png"
 mainSections = ["post"]
-twitter = "https://twitter.com"
+twitter = ""
 [privacy.instagram]
 disabled = false
 simple = true
